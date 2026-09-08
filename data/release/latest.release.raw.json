@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 6059102,
       "digest": "sha256:f236049ed22d74ea02e630a3721f87f8419d4950a01b3e58c154720419bae312",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-26T21:45:00Z",
       "updated_at": "2026-08-26T21:45:01Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_linux_386.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 5524746,
       "digest": "sha256:b62284f7e013f06772586a1fd8d62dff660052b1fc24df1a9190e1b07c347500",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-26T21:45:06Z",
       "updated_at": "2026-08-26T21:45:07Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_linux_mips_hardfloat.tar.gz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 6167772,
       "digest": "sha256:a53ecd6ec943c3340ed9e609d17a99bf6574349f496275c3809efaa8a5e541e5",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-26T21:45:05Z",
       "updated_at": "2026-08-26T21:45:05Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_openbsd_riscv64.tar.gz"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 6416307,
       "digest": "sha256:a4f50860073655abc61e9333a7c4d953b19b27d7d3266aafa1e43e776076405b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-26T21:45:00Z",
       "updated_at": "2026-08-26T21:45:01Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_windows_386.tar.gz"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 6645967,
       "digest": "sha256:c2578123d0ec2cafa2a1976e8291fc9efeab0ad45d512c8077c95bf871f93ece",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-26T21:45:05Z",
       "updated_at": "2026-08-26T21:45:06Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_windows_amd64.tar.gz"
