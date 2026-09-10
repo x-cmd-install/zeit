@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6586308,
       "digest": "sha256:acac5bcf9cafe2a9d1b36b27335c5fedb75942f4dbb9d068d23a224b94bb5016",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-26T21:45:04Z",
       "updated_at": "2026-08-26T21:45:05Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_darwin_amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6468352,
       "digest": "sha256:b0b003f2fcb1e155a0e0528aba9ab64c2e31ab59ac122149db8c73e01732d70b",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-08-26T21:45:06Z",
       "updated_at": "2026-08-26T21:45:07Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_linux_amd64.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 6213228,
       "digest": "sha256:a1944a17e09ffc720e762f63c59d5bde2c5e02541d617169557bcae66e305f98",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-26T21:45:09Z",
       "updated_at": "2026-08-26T21:45:10Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_openbsd_armv7.tar.gz"
