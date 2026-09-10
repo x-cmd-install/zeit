@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.1.0"
   latestRelease: "v1.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:07:13Z
+  collectedAt: 2026-09-10T18:10:25Z
 timeline:
   created: 2020-10-10
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-26
   lastPrerelease: 
 popularity:
-  star: 587
+  star: 588
   watcher: 4
   fork: 29
   release: 13
@@ -86,7 +86,7 @@ total:
   commit: 248
 ---
 path: /home/runner/.x-repo/github.com/mrusme/zeit
-collectedAt: 2026-09-10T06:07:15Z
+collectedAt: 2026-09-10T18:10:42Z
 loc:
   Go:
     code: 10717

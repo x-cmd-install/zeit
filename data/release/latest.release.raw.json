@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6017390,
       "digest": "sha256:fc7cc5bdded1dd9cd62f5f08c2d36ab2809dd8a88615f5a1a3a8c42a1ff5b60c",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-26T21:45:02Z",
       "updated_at": "2026-08-26T21:45:03Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_freebsd_386.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6442676,
       "digest": "sha256:98e9366034ce4e59d939340b940fdcb888104f6d836d94f13ff37d87759c16fd",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-26T21:45:03Z",
       "updated_at": "2026-08-26T21:45:03Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_illumos_amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6468352,
       "digest": "sha256:b0b003f2fcb1e155a0e0528aba9ab64c2e31ab59ac122149db8c73e01732d70b",
-      "download_count": 22,
+      "download_count": 24,
       "created_at": "2026-08-26T21:45:06Z",
       "updated_at": "2026-08-26T21:45:07Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_linux_amd64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 5343186,
       "digest": "sha256:9aa27614676bc3cec090c8d83353152ad723dfd8d527df8fe292940018e22bc7",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-26T21:45:05Z",
       "updated_at": "2026-08-26T21:45:05Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_linux_mips64le_hardfloat.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5488557,
       "digest": "sha256:bafd8013a49e55eabc54e9a37077e32e761ba8e3e16b9fa03607be35e4f805a8",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-26T21:45:08Z",
       "updated_at": "2026-08-26T21:45:09Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_linux_mipsle_hardfloat.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 5712259,
       "digest": "sha256:6cf6c079f3e0505918822fe55b3186002da816071f136071ee70e20fd9e42b8f",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-26T21:45:08Z",
       "updated_at": "2026-08-26T21:45:09Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_linux_ppc64le.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 6192496,
       "digest": "sha256:78912c45e8958f70475b2f82293e6b0f5d181c93e28b4e5764ce2efb78b7131e",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-26T21:45:01Z",
       "updated_at": "2026-08-26T21:45:02Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_linux_riscv64.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 6021308,
       "digest": "sha256:8670b0f8eeb97ce104a2f31ab800c367c96596fb30247612d73dd84ceac8fa0b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-26T21:45:03Z",
       "updated_at": "2026-08-26T21:45:03Z",
       "browser_download_url": "https://github.com/mrusme/zeit/releases/download/v1.1.0/zeit_1.1.0_openbsd_386.tar.gz"
