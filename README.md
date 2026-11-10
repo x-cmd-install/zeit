@@ -30,9 +30,9 @@ Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **SAST** (0/10) — no SAST tool detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 593 · **Forks**: 29 · **Open issues**: 0 · **Contributors**: 6
+- **Stars**: 594 · **Forks**: 29 · **Open issues**: 0 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-10 | 1 | 0 | 0 | 0 | 0 | 38 |
-| last180d | 2026-05-12 | 2 | 0 | 0 | 0 | 0 | 42 |
-| 360d | 2025-11-13 | 2 | 0 | 0 | 0 | 0 | 55 |
-| last720d | 2024-11-18 | 5 | 0 | 0 | 0 | 0 | 249 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-12 | 1 | 0 | 0 | 0 | 0 | 38 |
+| last180d | 2026-05-14 | 2 | 0 | 0 | 0 | 0 | 42 |
+| 360d | 2025-11-15 | 2 | 0 | 0 | 0 | 0 | 55 |
+| last720d | 2024-11-20 | 5 | 0 | 0 | 0 | 0 | 249 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for zeit lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:13:00Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:53:15Z._

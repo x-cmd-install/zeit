@@ -30,9 +30,9 @@ x install zeit
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **SAST** (0/10) — no SAST tool detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install zeit
 
 ## 流行度
 
-- **Star**: 593 · **Fork**: 29 · **开放 issue**: 0 · **贡献者**: 6
+- **Star**: 594 · **Fork**: 29 · **开放 issue**: 0 · **贡献者**: 6
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install zeit
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-10 | 1 | 0 | 0 | 0 | 0 | 38 |
-| last180d | 2026-05-12 | 2 | 0 | 0 | 0 | 0 | 42 |
-| 360d | 2025-11-13 | 2 | 0 | 0 | 0 | 0 | 55 |
-| last720d | 2024-11-18 | 5 | 0 | 0 | 0 | 0 | 249 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-12 | 1 | 0 | 0 | 0 | 0 | 38 |
+| last180d | 2026-05-14 | 2 | 0 | 0 | 0 | 0 | 42 |
+| 360d | 2025-11-15 | 2 | 0 | 0 | 0 | 0 | 55 |
+| last720d | 2024-11-20 | 5 | 0 | 0 | 0 | 0 | 249 |
 
 ## Release 资产
 
@@ -122,4 +122,4 @@ zeit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:13:01Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:53:16Z._
