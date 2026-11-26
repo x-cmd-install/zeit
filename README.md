@@ -24,6 +24,16 @@ Total: **10,777** lines of code across **69** files in the top 5 languages.
 | Yaml | 1 | 0 | 0 | 1 |
 | Markdown | 0 | 145 | 54 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **3.8 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **SAST** (0/10) — no SAST tool detected
+
 ## Source
 
 - **Upstream**: <https://github.com/mrusme/zeit>
@@ -48,12 +58,12 @@ Total: **10,777** lines of code across **69** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-29 | 2 | 0 | 0 | 0 | 0 | 42 |
-| 360d | 2025-11-30 | 2 | 0 | 0 | 0 | 0 | 52 |
-| last720d | 2024-12-05 | 5 | 0 | 0 | 0 | 0 | 249 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-30 | 2 | 0 | 0 | 0 | 0 | 42 |
+| 360d | 2025-12-01 | 2 | 0 | 0 | 0 | 0 | 52 |
+| last720d | 2024-12-06 | 5 | 0 | 0 | 0 | 0 | 249 |
 
 ## Release assets
 
@@ -112,4 +122,4 @@ Install metadata for zeit lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:59:38Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:22:10Z._
