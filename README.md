@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-31 | 2 | 0 | 0 | 0 | 0 | 42 |
-| 360d | 2025-12-02 | 2 | 0 | 0 | 0 | 0 | 52 |
-| last720d | 2024-12-07 | 5 | 0 | 0 | 0 | 0 | 249 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-06-01 | 2 | 0 | 0 | 0 | 0 | 42 |
+| 360d | 2025-12-03 | 2 | 0 | 0 | 0 | 0 | 52 |
+| last720d | 2024-12-08 | 5 | 0 | 0 | 0 | 0 | 249 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for zeit lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:35:01Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:39:29Z._
